@@ -6,7 +6,7 @@ Powered by TailWindCSS, Vite, and React.
 #
 
 ### Deployed
-#### Netlify: Pending
+#### Netlify: https://vet-patients-follow-up.netlify.app/
 #
 
 ### Web Development
